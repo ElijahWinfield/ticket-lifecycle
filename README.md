@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -57,7 +57,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eCRLaKM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -68,10 +68,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ELM0NOl.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
-  *solve the issue*
+ <p>
+<img src="https://i.imgur.com/0wJgoKa.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+ 
+  
+  *reslove the issue and close tickets if we have the permisions*
